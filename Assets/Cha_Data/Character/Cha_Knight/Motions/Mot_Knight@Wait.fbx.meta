@@ -87,6 +87,7 @@ ModelImporter:
     7400046: Take 001 //// Skeleton_Leg_R
     7400048: Take 001 //// Skeleton_Foot_R
     7400050: Take 001 //// FullBodyIK
+    7400052: WaitLoop
     9500000: //RootNode
     11100000: //RootNode
     11100002: FullBodyIK
@@ -249,8 +250,10 @@ ModelImporter:
     legStretch: .0500000007
     feetSpacing: 0
     rootMotionBoneName: 
+    hasTranslationDoF: 0
   lastHumanDescriptionAvatarSource: {instanceID: 0}
   animationType: 1
+  humanoidOversampling: 1
   additionalBone: 0
   userData: 
   assetBundleName: 
